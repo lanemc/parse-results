@@ -1,33 +1,16 @@
-#coding: utf-8
-
 import csv
 import pandas as pd
-import re
+
 
 finalDict = {}
 
 with open('results.txt', 'r') as f:
 	lines = list(map(lambda line: line.split('\n')[:-1],f.read().split('\n\n')))
 	finalDict = dict((elem[0],elem[1:]) for elem in lines)
-	finalDict = {k: [x for x in v if not any(item in x for item in ['├───OK───', 'myu', 'https://math.umn.edu/NA', 'indexAccess.php'])] for k, v in finalDict.items()}
-	#finalDict = {k: [x for x in v if 'myu' not in x] for k, v in finalDict.items()}
-	#finalDict = {k: [x for x in v if 'https://math.umn.edu/NA' not in x] for k, v in finalDict.items()}
-	#finalDict = {k: [x for x in v if 'indexAccess.php' not in x] for k, v in finalDict.items()}
-	print(finalDict)
-	finalDict = {k:v for k,v in finalDict.items() if len(v) > 0}
+	df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in finalDict.iteritems() ]))
+	#df = pd.DataFrame({k : pd.Series(v) for k, v in finalDict.iteritems()})
 
-df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in finalDict.iteritems() ]))
-
-#df = df.astype(str)
-#df.applymap(lambda x: re.sub('.*http.*','',x))
-
-#mask = np.column_stack([df[col].astype(str).str.contains('https', na=False) for col in df])
-#df.loc[~mask.any(axis=1)]
-
-#np.column_stack([df[col].split("https") for col in df])
-
-#df.replace("https", "", regex=True)
-#df.replace(to_replace=r'^https.$', value='', regex=True)
+mask = np.column_Stack([df[col].str.contains(''
 #names = df.columns
 #print(names)
 
@@ -42,6 +25,9 @@ df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in finalDict.iteritems() ]))
 #removeNaN(df)
 
 #print(df)
+
+to_drop = ['NaN', '\xe2OK']
+df = [df[col].isin(to_drop)]
 
 print(df)
 
