@@ -1,0 +1,18 @@
+Getting links from: https://www.foo.com/
+├───OK─── http://www.this.com/
+├───OK─── http://www.is.com/
+├─BROKEN─ http://www.broken.com/
+├───OK─── http://www.set.com/
+├───OK─── http://www.one.com/
+5 links found. 0 excluded. 1 broken.
+
+Getting links from: https://www.bar.com/
+├───OK─── http://www.this.com/
+├───OK─── http://www.is.com/
+├─BROKEN─ http://www.broken.com/
+3 links found. 0 excluded. 1 broken.
+
+Getting links from: https://www.boo.com/
+├───OK─── http://www.this.com/
+├───OK─── http://www.is.com/
+2 links found. 0 excluded. 0 broken.
