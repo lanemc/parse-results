@@ -4,16 +4,16 @@ import pandas as pd
 
 finalDict = {}
 
-with open('link_checker_result.txt', 'r') as f:
+with open('results.txt', 'r') as f:
 	lines = list(map(lambda line: line.split('\n')[:-1],f.read().split('\n\n')))
 	finalDict = dict((elem[0],elem[1:]) for elem in lines)
 	df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in finalDict.iteritems() ]))
 	#df = pd.DataFrame({k : pd.Series(v) for k, v in finalDict.iteritems()})
 
-names = df.columns
-print(names)
+#names = df.columns
+#print(names)
 
-# Declare the target and replacement values for NaT strings
+# Declare the target and replacement values for NaN strings
 #findS = ['NaN']
 #replaceS = ['']
 
@@ -25,7 +25,12 @@ print(names)
 
 #print(df)
 
-#df.to_csv('new.csv', sep='\t', index=False)
+to_drop = ['NaN', '\xe2OK']
+df = [df[col].isin(to_drop)]
+
+print(df)
+
+df.to_csv('new.csv', sep='\t', index=False)
 #new_df = pd.read_csv('new.csv')
 #print(new_df)
 
