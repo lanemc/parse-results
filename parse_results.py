@@ -20,6 +20,8 @@ with open('results.txt', 'r') as f:
 # Create a DataFrame from finalDict using the dictionary keys as column headers and the Series method, which allows the transfer of the list of dictionary values into DataFrame rows.
 df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in finalDict.iteritems() ]))
 
+df.to_html('index.html')
+
 print(df)
 
 df.to_csv('new.csv', sep='\t', index=False)
