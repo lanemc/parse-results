@@ -13,12 +13,9 @@ with open('results.txt', 'r') as f:
 	# Add the lists into a dictionary using the root link as the keys and the child links as the values
 	finalDict = dict((elem[0],elem[1:]) for elem in lines)
 	# Filter out identified failed redirects
-	finalDict = {k: [x for x in v if not any(item in x for item in ['├───OK───', 'https://math.umn.edu/about/memoriam', 'https://math.umn.edu/research/combinatorics', 'https://math.umn.edu/5309694', 'http://oit-drupal-prd-web.oit.umn.edu/', 'http://www.myu.umn.edu/', 'https://www.myu.umn.edu/', 'http://www.myu.umn.edu', 'https://math.umn.edu/NA', 'www.linkedin.com', 'http://www.fox.temple.edu/mcm_people/', 'https://math.umn.edu/seminars/past-seminars-series/MCFAM-Seminar/MCIM-Industrial-Problems-Seminar/'])] for k, v in finalDict.items()}
+	finalDict = {k: [x for x in v if not any(item in x for item in ['├───OK───', 'https://math.umn.edu/about/memoriam', 'https://math.umn.edu/research/combinatorics', 'https://math.umn.edu/5309694', 'http://oit-drupal-prd-web.oit.umn.edu/', 'http://www.myu.umn.edu/', 'https://www.myu.umn.edu/', 'http://www.myu.umn.edu', 'https://math.umn.edu/NA', 'www.linkedin.com', 'http://www.fox.temple.edu/mcm_people/'])] for k, v in finalDict.items()}
 	# Remove dictionary keys (root links) that have no values
 	finalDict = {k:v for k,v in finalDict.items() if len(v) > 0}
-
-if ".*https://math.umn.edu/seminars/past-seminars-series/MCFAM-Seminar/MCIM-Industrial-Problems-Seminar/.*" in finalDict:
-	del finalDict
 
 #for k in finalDict.keys():
 #	if k.contains('https://math.umn.edu/seminars/past-seminars-series/MCFAM-Seminar/MCIM-Industrial-Problems-Seminar/'):
