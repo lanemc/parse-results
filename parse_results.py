@@ -28,6 +28,6 @@ print(df)
 
 df.to_csv('new.csv', sep='\t', index=False)
 
-finalDf = pd.read_csv('new.csv', encoding='ascii')
-finalDf.to_html('index.html')
+#finalDf = pd.read_csv('new.csv', encoding='ascii')
+df.to_html('index.html')
 
