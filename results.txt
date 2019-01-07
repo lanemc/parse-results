@@ -325,8 +325,6 @@ Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_v
 ├─BROKEN─ http://www.math.umn.edu/~fowler (HTTP_404)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/seg_1.jpg?itok=69BmMtOC
 ├───OK─── https://math.umn.edu/directory/scott-gilbert
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huseby_1.jpg?itok=0A0YdxFx
-├───OK─── https://math.umn.edu/directory/ted-huseby
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/lawso004_0.jpg?itok=X4KJ_FLD
 ├───OK─── https://math.umn.edu/directory/stephanie-lawson
 ├───OK─── http://math.umn.edu/~lawso004
@@ -342,8 +340,6 @@ Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_v
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/singh009_0.jpg?itok=XBgsIH5h
 ├───OK─── https://math.umn.edu/directory/harry-singh
 ├───OK─── http://math.umn.edu/~singh009
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsorenso_0.jpg?itok=vABZd0Ht
-├───OK─── https://math.umn.edu/directory/dana-sorenson
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/sukha004_0.jpg?itok=wMBYgtS8
 ├───OK─── https://math.umn.edu/directory/jenida-sukharan
 ├─BROKEN─ https://math.umn.edu/NA (HTTP_404)
@@ -356,7 +352,7 @@ Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_v
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wash0045_0.jpg?itok=cqkTnzvc
 ├───OK─── https://math.umn.edu/directory/derek-washington
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 212 links found. 159 excluded. 4 broken.
+Finished! 204 links found. 155 excluded. 4 broken.
 
 Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_value=visitors
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -819,7 +815,7 @@ Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_v
 ├───OK─── http://math.umn.edu/~stras087
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/stuck127_1.jpg?itok=DZZYS1kr
 ├───OK─── https://math.umn.edu/directory/eric-stucky
-├───OK─── http://www.math.umn.edu/~stuck127/
+├─BROKEN─ http://www.math.umn.edu/~stuck127/ (BLC_UNKNOWN)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/taoxx173_1.jpg?itok=sfsvIc0G
 ├───OK─── https://math.umn.edu/directory/tianyu-tao
 ├───OK─── http://math.umn.edu/~taoxx173
@@ -868,7 +864,7 @@ Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_v
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhux0629.jpg?itok=yUuYr1Ck
 ├───OK─── https://math.umn.edu/directory/bo-zhu
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 800 links found. 453 excluded. 8 broken.
+Finished! 800 links found. 453 excluded. 9 broken.
 
 Getting links from: https://math.umn.edu/master-financial-mathematics/mfmfqf
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -921,11 +917,11 @@ Getting links from: https://math.umn.edu/master-financial-mathematics/mfmfqf
 ├───OK─── https://math.umn.edu/directory/alexander-hamer
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/he000173_0.jpg?itok=tKdmByOc
 ├───OK─── https://math.umn.edu/directory/xiaowen-he
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1838_0.jpg?itok=32wz2b6F
-├───OK─── https://math.umn.edu/directory/weiliang-huang
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1842_0.jpg?itok=tUonfg8g
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1842_0.jpg?itok=tUonfg8g (HTTP_404)
 ├───OK─── https://math.umn.edu/directory/liwei-huang
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/ji00052_0.jpg?itok=MyUp7K0P
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1838_0.jpg?itok=32wz2b6F (HTTP_404)
+├───OK─── https://math.umn.edu/directory/weiliang-huang
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/ji00052_0.jpg?itok=MyUp7K0P (HTTP_404)
 ├───OK─── https://math.umn.edu/directory/yaoxin-ji
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/knuds243_0.jpg?itok=7tkDX8B2
 ├───OK─── https://math.umn.edu/directory/michele-knudsen
@@ -983,14 +979,14 @@ Getting links from: https://math.umn.edu/master-financial-mathematics/mfmfqf
 ├───OK─── https://math.umn.edu/directory/boxian-wu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xie00036.jpg?itok=t1Y7FErw
 ├───OK─── https://math.umn.edu/directory/changlin-xie
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xu000112.jpg?itok=XsUBmfiN
+├───OK─── https://math.umn.edu/directory/qinzheng-xu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xu000090.jpg?itok=MUGTYq2D
 ├───OK─── https://math.umn.edu/directory/yifan-xu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xu000110.jpg?itok=utPhyhXa
 ├───OK─── https://math.umn.edu/directory/yin-xu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xu000070.jpg?itok=4safFb26
 ├───OK─── https://math.umn.edu/directory/heng-xu
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/xu000112.jpg?itok=XsUBmfiN
-├───OK─── https://math.umn.edu/directory/qinzheng-xu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/yuxx0540.jpg?itok=F4o22vnM
 ├───OK─── https://math.umn.edu/directory/dian-yu
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhan5948.jpg?itok=o2VDCvkV
@@ -1013,7 +1009,7 @@ Getting links from: https://math.umn.edu/master-financial-mathematics/mfmfqf
 ├───OK─── https://math.umn.edu/directory/yilin-zhu
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/master-financial-mathematics/mfmfqf
-Finished! 367 links found. 225 excluded. 2 broken.
+Finished! 367 links found. 225 excluded. 5 broken.
 
 Getting links from: https://math.umn.edu/about/directory?keys=&field_role_type_value=emeritus
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -1388,9 +1384,10 @@ Getting links from: https://math.umn.edu/graduate
 ├───OK─── https://math.umn.edu/mcfam
 ├───OK─── https://math.umn.edu/graduate/how-apply
 ├─BROKEN─ https://math.umn.edu/graduate/alumni-information (HTTP_404)
+├───OK─── https://math.umn.edu/content/graduate-program-open-house
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/graduate
-Finished! 119 links found. 110 excluded. 3 broken.
+Finished! 120 links found. 110 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/phd-programs/admission-requirements
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -1432,10 +1429,10 @@ Finished! 114 links found. 111 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/mcfam/financial-mathematics
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/finance_degrees_200.jpg?itok=gZlQ3wcn
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/quantnetranking2018.jpeg?itok=D557qLUZ
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/tfe-times-badge-200-px_1.png?itok=6_gRC-h6
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/iaqfAPAM-v1.jpg?itok=MLEpL19x
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/finance_degrees_200.jpg?itok=gZlQ3wcn
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/quantnetranking2018.jpeg?itok=D557qLUZ
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/tfe-times-badge-200-px_1.png?itok=6_gRC-h6
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_original/public/iaqfAPAM-v1.jpg?itok=MLEpL19x
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/aaron_boyuan_shi_0.jpg?itok=YuifxY6u
 ├───OK─── https://math.umn.edu/about/testimonials/aaron-shi
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -1611,8 +1608,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/nicole-bridgland#alumni
 ├───OK─── https://math.umn.edu/directory/clayton-bromley#alumni
 ├───OK─── https://math.umn.edu/directory/russell-brown#alumni
-├───OK─── https://math.umn.edu/directory/fanbin-bu#alumni
 ├───OK─── https://math.umn.edu/directory/fanbin-bu-0#alumni
+├───OK─── https://math.umn.edu/directory/fanbin-bu#alumni
 ├───OK─── https://math.umn.edu/directory/patrick-byrnes#alumni
 ├───OK─── https://math.umn.edu/directory/rosa-cabanela#alumni
 ├───OK─── https://math.umn.edu/directory/kyle-calderhead#alumni
@@ -1625,21 +1622,21 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/brandon-chabaud#alumni
 ├───OK─── https://math.umn.edu/directory/brandon-chabaud-0#alumni
 ├───OK─── https://math.umn.edu/directory/ching-hao-chang#alumni
-├───OK─── https://math.umn.edu/directory/won-jae-chang#alumni
 ├───OK─── https://math.umn.edu/directory/peter-chang#alumni
+├───OK─── https://math.umn.edu/directory/won-jae-chang#alumni
 ├───OK─── https://math.umn.edu/directory/yi-ju-chao#alumni
 ├───OK─── https://math.umn.edu/directory/celeste-chayabutr#alumni
 ├───OK─── https://math.umn.edu/directory/jeongoo-cheh#alumni
-├───OK─── https://math.umn.edu/directory/bin-chen#alumni
-├───OK─── https://math.umn.edu/directory/guangliang-chen#alumni
-├───OK─── https://math.umn.edu/directory/haojie-chen#alumni
-├───OK─── https://math.umn.edu/directory/haoran-chen#alumni
-├───OK─── https://math.umn.edu/directory/hwa-nien-chen#alumni
 ├───OK─── https://math.umn.edu/directory/kuo-chang-chen#alumni
 ├───OK─── https://math.umn.edu/directory/min-hung-chen#alumni
 ├───OK─── https://math.umn.edu/directory/nai-chia-chen#alumni
 ├───OK─── https://math.umn.edu/directory/xinfu-chen#alumni
 ├───OK─── https://math.umn.edu/directory/yanlai-chen#alumni
+├───OK─── https://math.umn.edu/directory/bin-chen#alumni
+├───OK─── https://math.umn.edu/directory/guangliang-chen#alumni
+├───OK─── https://math.umn.edu/directory/haojie-chen#alumni
+├───OK─── https://math.umn.edu/directory/haoran-chen#alumni
+├───OK─── https://math.umn.edu/directory/hwa-nien-chen#alumni
 ├───OK─── https://math.umn.edu/directory/lu-cheng#alumni
 ├───OK─── https://math.umn.edu/directory/tzuu-shuh-chiang#alumni
 ├───OK─── https://math.umn.edu/directory/laura-chihara#alumni
@@ -1695,8 +1692,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/elisa-ferretti#alumni
 ├───OK─── https://math.umn.edu/directory/tim-finnegan#alumni
 ├───OK─── https://math.umn.edu/directory/susanna-fishel#alumni
-├───OK─── https://math.umn.edu/directory/juraj-foldes#alumni
 ├───OK─── https://math.umn.edu/directory/robert-foldes#alumni
+├───OK─── https://math.umn.edu/directory/juraj-foldes#alumni
 ├───OK─── https://math.umn.edu/directory/irene-fonseca#alumni
 ├───OK─── https://math.umn.edu/directory/mikhail-foursov#alumni
 ├───OK─── https://math.umn.edu/directory/guosheng-fu#alumni
@@ -1721,9 +1718,9 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/william-grodzicki#alumni
 ├───OK─── https://math.umn.edu/directory/changfeng-gui#alumni
 ├───OK─── https://math.umn.edu/directory/emily-gunawan#alumni
-├───OK─── https://math.umn.edu/directory/jong-shenq-guo#alumni
 ├───OK─── https://math.umn.edu/directory/xiaoqin-guo#alumni
 ├───OK─── https://math.umn.edu/directory/yung-jen-guo#alumni
+├───OK─── https://math.umn.edu/directory/jong-shenq-guo#alumni
 ├───OK─── https://math.umn.edu/directory/aaron-hagen#alumni
 ├───OK─── https://math.umn.edu/directory/jonathan-hahn#alumni
 ├───OK─── https://math.umn.edu/directory/haile-kebede-haile#alumni
@@ -1750,9 +1747,9 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/alanna-hoyer-leitzel#alumni
 ├───OK─── https://math.umn.edu/directory/bei-hu#alumni
 ├───OK─── https://math.umn.edu/directory/jifeng-hu#alumni
-├───OK─── https://math.umn.edu/directory/chaocheng-huang#alumni
 ├───OK─── https://math.umn.edu/directory/hsin-yuan-huang#alumni
 ├───OK─── https://math.umn.edu/directory/jia-huang#alumni
+├───OK─── https://math.umn.edu/directory/chaocheng-huang#alumni
 ├───OK─── https://math.umn.edu/directory/jennie-hulse#alumni
 ├───OK─── https://math.umn.edu/directory/robert-hummel#alumni
 ├───OK─── https://math.umn.edu/directory/vahan-huroyan#alumni
@@ -1762,19 +1759,20 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/jaeduck-jang#alumni
 ├───OK─── https://math.umn.edu/directory/gabriela-jaramillo#alumni
 ├───OK─── https://math.umn.edu/directory/ning-jia#alumni
-├───OK─── https://math.umn.edu/directory/russell-johnson#alumni
 ├───OK─── https://math.umn.edu/directory/gene-johnson#alumni
 ├───OK─── https://math.umn.edu/directory/james-johnson#alumni
 ├───OK─── https://math.umn.edu/directory/steven-johnson#alumni
+├───OK─── https://math.umn.edu/directory/russell-johnson#alumni
 ├───OK─── https://math.umn.edu/directory/michael-jolly#alumni
 ├───OK─── https://math.umn.edu/directory/yoon-mo-jung#alumni
 ├───OK─── https://math.umn.edu/directory/kyung-keun-kang#alumni
 ├───OK─── https://math.umn.edu/directory/minchul-kang#alumni
 ├───OK─── https://math.umn.edu/directory/upali-karunathilake#alumni
-├───OK─── https://math.umn.edu/directory/joseph-kenney-0#alumni
 ├───OK─── https://math.umn.edu/directory/joseph-kenney#alumni
+├───OK─── https://math.umn.edu/directory/joseph-kenney-0#alumni
 ├───OK─── https://math.umn.edu/directory/varunyu-khamviwath#alumni
 ├───OK─── https://math.umn.edu/directory/kendra-killpatrick#alumni
+├───OK─── https://math.umn.edu/directory/dae-san-kim#alumni
 ├───OK─── https://math.umn.edu/directory/christopher-kim#alumni
 ├───OK─── https://math.umn.edu/directory/dongsu-kim#alumni
 ├───OK─── https://math.umn.edu/directory/doyoon-kim#alumni
@@ -1784,7 +1782,6 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/minsu-kim#alumni
 ├───OK─── https://math.umn.edu/directory/pilwon-kim#alumni
 ├───OK─── https://math.umn.edu/directory/sangwook-kim#alumni
-├───OK─── https://math.umn.edu/directory/dae-san-kim#alumni
 ├───OK─── https://math.umn.edu/directory/seick-kim#alumni
 ├───OK─── https://math.umn.edu/directory/yang-jin-kim#alumni
 ├───OK─── https://math.umn.edu/directory/william-kinney-jr#alumni
@@ -1808,19 +1805,15 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/dean-larson#alumni
 ├───OK─── https://math.umn.edu/directory/chiping-lau#alumni
 ├───OK─── https://math.umn.edu/directory/bernard-le-stum#alumni
+├───OK─── https://math.umn.edu/directory/chang-hyeong-lee#alumni
+├───OK─── https://math.umn.edu/directory/chengwei-gary-lee#alumni
 ├───OK─── https://math.umn.edu/directory/jae-hyouk-lee#alumni
 ├───OK─── https://math.umn.edu/directory/jeonghun-john-lee#alumni
 ├───OK─── https://math.umn.edu/directory/kijung-lee#alumni
 ├───OK─── https://math.umn.edu/directory/namyong-lee#alumni
-├───OK─── https://math.umn.edu/directory/chang-hyeong-lee#alumni
-├───OK─── https://math.umn.edu/directory/chengwei-gary-lee#alumni
 ├───OK─── https://math.umn.edu/directory/giovanni-leoni#alumni
 ├───OK─── https://math.umn.edu/directory/tod-levitt#alumni
 ├───OK─── https://math.umn.edu/directory/anton-leykin#alumni
-├───OK─── https://math.umn.edu/directory/bo-li#alumni
-├───OK─── https://math.umn.edu/directory/changchun-li#alumni
-├───OK─── https://math.umn.edu/directory/fang-li#alumni
-├───OK─── https://math.umn.edu/directory/hui-li#alumni
 ├───OK─── https://math.umn.edu/directory/liping-li#alumni
 ├───OK─── https://math.umn.edu/directory/lu-li#alumni
 ├───OK─── https://math.umn.edu/directory/xingjie-helen-li#alumni
@@ -1828,6 +1821,10 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/yi-li#alumni
 ├───OK─── https://math.umn.edu/directory/jun-li#alumni
 ├───OK─── https://math.umn.edu/directory/lizao-larry-li#alumni
+├───OK─── https://math.umn.edu/directory/bo-li#alumni
+├───OK─── https://math.umn.edu/directory/changchun-li#alumni
+├───OK─── https://math.umn.edu/directory/fang-li#alumni
+├───OK─── https://math.umn.edu/directory/hui-li#alumni
 ├───OK─── https://math.umn.edu/directory/julia-liakhova#alumni
 ├───OK─── https://math.umn.edu/directory/jie-liao#alumni
 ├───OK─── https://math.umn.edu/directory/chingher-lin#alumni
@@ -1836,13 +1833,13 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/san-yih-lin#alumni
 ├───OK─── https://math.umn.edu/directory/danika-lindsay#alumni
 ├───OK─── https://math.umn.edu/directory/liiperng-liou#alumni
-├───OK─── https://math.umn.edu/directory/gang-liu#alumni
 ├───OK─── https://math.umn.edu/directory/baiying-liu#alumni
 ├───OK─── https://math.umn.edu/directory/bo-liu#alumni
 ├───OK─── https://math.umn.edu/directory/chin-yueh-liu#alumni
 ├───OK─── https://math.umn.edu/directory/wenxiong-liu#alumni
 ├───OK─── https://math.umn.edu/directory/yang-liu#alumni
 ├───OK─── https://math.umn.edu/directory/yong-liu#alumni
+├───OK─── https://math.umn.edu/directory/gang-liu#alumni
 ├───OK─── https://math.umn.edu/directory/hector-lomeli-ortega#alumni
 ├───OK─── https://math.umn.edu/directory/alejandro-lopez#alumni
 ├───OK─── https://math.umn.edu/directory/yuan-lou#alumni
@@ -1885,8 +1882,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/mahesh-nerurkar#alumni
 ├───OK─── https://math.umn.edu/directory/preston-nichols#alumni
 ├───OK─── https://math.umn.edu/directory/xiaolan-nie#alumni
-├───OK─── https://math.umn.edu/directory/michelle-nielsen#alumni
 ├───OK─── https://math.umn.edu/directory/michelle-nielsen-0#alumni
+├───OK─── https://math.umn.edu/directory/michelle-nielsen#alumni
 ├───OK─── https://math.umn.edu/directory/chia-hsing-nien#alumni
 ├───OK─── https://math.umn.edu/directory/chu-feng-nien#alumni
 ├───OK─── https://math.umn.edu/directory/david-norman#alumni
@@ -1904,8 +1901,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/yi-ouyang#alumni
 ├───OK─── https://math.umn.edu/directory/victor-padron-rodriguez#alumni
 ├───OK─── https://math.umn.edu/directory/tsorng-whay-pan#alumni
-├───OK─── https://math.umn.edu/directory/jun-yong-june-park#alumni
 ├───OK─── https://math.umn.edu/directory/jinhae-park#alumni
+├───OK─── https://math.umn.edu/directory/jun-yong-june-park#alumni
 ├───OK─── https://math.umn.edu/directory/felino-pascual#alumni
 ├───OK─── https://math.umn.edu/directory/rebecca-becky-patrias#alumni
 ├───OK─── https://math.umn.edu/directory/bruce-peckham#alumni
@@ -2009,8 +2006,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/tai-peng-tsai#alumni
 ├───OK─── https://math.umn.edu/directory/ya-lun-tsai#alumni
 ├───OK─── https://math.umn.edu/directory/catalin-turc#alumni
-├───OK─── https://math.umn.edu/directory/vasfiye-hande-tuzel#alumni
 ├───OK─── https://math.umn.edu/directory/vasfiye-hande-tuzel-0#alumni
+├───OK─── https://math.umn.edu/directory/vasfiye-hande-tuzel#alumni
 ├───OK─── https://math.umn.edu/directory/wilfredo-urbina#alumni
 ├───OK─── https://math.umn.edu/directory/dario-valdebenito#alumni
 ├───OK─── https://math.umn.edu/directory/luis-valero-elizondo#alumni
@@ -2022,14 +2019,14 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/peter-waksman#alumni
 ├───OK─── https://math.umn.edu/directory/hans-walther#alumni
 ├───OK─── https://math.umn.edu/directory/chen-wan#alumni
+├───OK─── https://math.umn.edu/directory/yi-wang#alumni
+├───OK─── https://math.umn.edu/directory/yang-wang#alumni
 ├───OK─── https://math.umn.edu/directory/haiying-wang#alumni
 ├───OK─── https://math.umn.edu/directory/jing-wang-0#alumni
 ├───OK─── https://math.umn.edu/directory/qixuan-wang#alumni
 ├───OK─── https://math.umn.edu/directory/teng-wang#alumni
 ├───OK─── https://math.umn.edu/directory/xu-wang#alumni
 ├───OK─── https://math.umn.edu/directory/xuefeng-wang#alumni
-├───OK─── https://math.umn.edu/directory/yi-wang#alumni
-├───OK─── https://math.umn.edu/directory/yang-wang#alumni
 ├───OK─── https://math.umn.edu/directory/suk-wee#alumni
 ├───OK─── https://math.umn.edu/directory/ananda-weerasinghe#alumni
 ├───OK─── https://math.umn.edu/directory/jun-cheng-wei#alumni
@@ -2043,8 +2040,8 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/joshua-wilson#alumni
 ├───OK─── https://math.umn.edu/directory/todd-wittman#alumni
 ├───OK─── https://math.umn.edu/directory/nathan-wodarz#alumni
-├───OK─── https://math.umn.edu/directory/weiwei-wu#alumni
 ├───OK─── https://math.umn.edu/directory/qiliang-wu#alumni
+├───OK─── https://math.umn.edu/directory/weiwei-wu#alumni
 ├───OK─── https://math.umn.edu/directory/fei-xu#alumni
 ├───OK─── https://math.umn.edu/directory/guoyi-xu#alumni
 ├───OK─── https://math.umn.edu/directory/chuan-xue#alumni
@@ -2062,8 +2059,6 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/jie-yun#alumni
 ├───OK─── https://math.umn.edu/directory/rahim-zaare-nahandi#alumni
 ├───OK─── https://math.umn.edu/directory/aleksandar-zatezalo#alumni
-├───OK─── https://math.umn.edu/directory/hang-zhang#alumni
-├───OK─── https://math.umn.edu/directory/jian-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/jianhua-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/lei-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/tianyu-zhang#alumni
@@ -2072,20 +2067,22 @@ Getting links from: https://math.umn.edu/graduate-studies/alumni
 ├───OK─── https://math.umn.edu/directory/wujun-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/yi-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/teng-zhang#alumni
+├───OK─── https://math.umn.edu/directory/hang-zhang#alumni
+├───OK─── https://math.umn.edu/directory/jian-zhang#alumni
 ├───OK─── https://math.umn.edu/directory/liqiong-zhao#alumni
 ├───OK─── https://math.umn.edu/directory/likun-zheng#alumni
 ├───OK─── https://math.umn.edu/directory/stephen-zheng#alumni
-├───OK─── https://math.umn.edu/directory/wei-zhou#alumni
 ├───OK─── https://math.umn.edu/directory/fanhuan-zhou-0#alumni
-├───OK─── https://math.umn.edu/directory/xiaoming-zhou#alumni
 ├───OK─── https://math.umn.edu/directory/fanhuan-zhou#alumni
 ├───OK─── https://math.umn.edu/directory/qing-zhou#alumni
+├───OK─── https://math.umn.edu/directory/wei-zhou#alumni
+├───OK─── https://math.umn.edu/directory/xiaoming-zhou#alumni
 ├───OK─── https://math.umn.edu/directory/xiaodong-zhu#alumni
 ├───OK─── https://math.umn.edu/directory/yifei-zhu#alumni
 ├───OK─── https://math.umn.edu/directory/john-zicarelli#alumni
 ├───OK─── https://math.umn.edu/directory/heng-zou#alumni
-├───OK─── https://math.umn.edu/directory/jose-zuniga#alumni
 ├───OK─── https://math.umn.edu/directory/jose-zuniga-0#alumni
+├───OK─── https://math.umn.edu/directory/jose-zuniga#alumni
 ├───OK─── https://math.umn.edu/directory/victor-zurkowski#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/graduate-studies/alumni
@@ -2263,8 +2260,8 @@ Getting links from: https://math.umn.edu/research-programs/mcfam
 ├───OK─── https://math.umn.edu/mcfam-home/sponsors
 ├───OK─── https://math.umn.edu/mcfam-home/region
 ├───OK─── https://math.umn.edu/mcfam-home/contact
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dichen_li-testimonial.png?itok=zZwHVQBd
-├───OK─── https://math.umn.edu/about/testimonials/dichen-li
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/shanshan_wu-testimonial.jpg?itok=2uMz1xwm
+├───OK─── https://math.umn.edu/about/testimonials/shanshan-wu-0
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/research-programs/mcfam
 Finished! 120 links found. 104 excluded. 2 broken.
@@ -2325,10 +2322,10 @@ Getting links from: https://math.umn.edu/news-events/news
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/raise-thumbnail.png?itok=QCt4CMjb
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/simons-collaboration-svitlana-mayboroda-doug-arnold.png?itok=S-JEiY_F
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wei-kuo-chen-young-scientist-award-thumbnail.png?itok=Ft8LMqw-
-├───OK─── https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen_nsf_career_grant-thumb.jpg?itok=xfToRKM2
 ├───OK─── https://math.umn.edu/news/congratulations-newly-promoted-faculty-1
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2018-promotions-thumb.png?itok=UY7PCrge
+├───OK─── https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen_nsf_career_grant-thumb.jpg?itok=xfToRKM2
 ├───OK─── https://math.umn.edu/news/umn-mathcep-wins-2018-award-exemplary-program
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/mathcep-award-thumb.png?itok=1QT6qrR_
 ├───OK─── https://math.umn.edu/news/bryan-felix-and-lucy-yang-awarded-nsf-graduate-fellowships-1
@@ -2383,6 +2380,8 @@ Finished! 154 links found. 127 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://photos.app.goo.gl/MgE43qsP5Gskqt8S6
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsc05141.jpg?itok=ItE7ty4w
 ├───OK─── https://photos.app.goo.gl/33vUpwCdUWQcLemc2
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsc04049.jpg?itok=0gMp2QGr
 ├───OK─── https://photos.app.goo.gl/cn7SrHohHRqZ5e1u2
@@ -2411,8 +2410,12 @@ Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/_lobbydisplay2.jpg?itok=6Zkr-EO_
 ├───OK─── https://photos.app.goo.gl/iZSRoxbzLX4kPKSc9
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_0784.jpg?itok=9nld9EQH
-├───OK─── https://photos.app.goo.gl/MgE43qsP5Gskqt8S6
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsc05141.jpg?itok=ItE7ty4w
+├───OK─── https://photos.app.goo.gl/tqJo2Y3HvWAP7QNt1
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_7202.jpg?itok=693msz6F
+├───OK─── https://photos.app.goo.gl/BUvAK95Rw7byuo5x1
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_8589.jpg?itok=lfxo9q2K
+├───OK─── https://goo.gl/photos/7pZCr2Lt11LVwkpQ9
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsc03027.jpg?itok=v9uHlhNP
 ├───OK─── https://plus.google.com/b/116189434051897940043/events/csl91amm01akrdq6b8infpucffg
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/winter-modeling-workshop-2017.jpg?itok=jjNwgw58
 ├───OK─── https://goo.gl/photos/CcNtXhXCt8YPx7qn8
@@ -2441,12 +2444,11 @@ Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_6869.jpg?itok=_bGgKpwy
 ├───OK─── https://goo.gl/photos/DXhVW3UBDNAoqQqMA
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_7109.jpg?itok=3f5-Ryuu
-├───OK─── https://photos.app.goo.gl/tqJo2Y3HvWAP7QNt1
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_7202.jpg?itok=693msz6F
-├───OK─── https://photos.app.goo.gl/BUvAK95Rw7byuo5x1
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_8589.jpg?itok=lfxo9q2K
-├───OK─── https://goo.gl/photos/7pZCr2Lt11LVwkpQ9
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dsc03027.jpg?itok=v9uHlhNP
+├───OK─── https://goo.gl/photos/6LFYj22uUFTKmCgP6
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_3812.jpg?itok=vHLUcEcf
+├───OK─── https://goo.gl/photos/5cgHnhTmBDdd7wbW7
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_2611.jpg?itok=7Q3lYyOy
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_3828.jpg?itok=SZ68GFg9
 ├───OK─── https://get.google.com/u/0/albumarchive/116189434051897940043/album/AF1QipOYIWKsWOXC1qRX7t73zPucvwWZyxWyCmOhz_-g
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2016-fm-orientation0_0.jpg?itok=Sb9FXLr5
 ├───OK─── https://get.google.com/u/0/albumarchive/116189434051897940043/album/AF1QipM0EttdBKcUqaB0vEx4Zgpm8vZkgW2CdWerNwYu
@@ -2475,11 +2477,6 @@ Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2016_graduation.jpg?itok=WFKzBmDn
 ├───OK─── https://goo.gl/photos/tdSJVPLLHFEm76ri8
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2016_open_house.jpg?itok=ZbMIlYa2
-├───OK─── https://goo.gl/photos/6LFYj22uUFTKmCgP6
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_3812.jpg?itok=vHLUcEcf
-├───OK─── https://goo.gl/photos/5cgHnhTmBDdd7wbW7
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_2611.jpg?itok=7Q3lYyOy
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/img_3828.jpg?itok=SZ68GFg9
 ├───OK─── https://get.google.com/u/0/albumarchive/116189434051897940043/album/AF1QipNiv4MoWOLUhKUPMUJHe6WPiYv1Jdt2Xic2Y2Hl
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2015-quant-career-fair.jpg?itok=2HYfwssQ
 ├───OK─── https://plus.google.com/events/cf5a705eis7lmahgpfg4dru9hfk
@@ -2508,6 +2505,14 @@ Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2015_graduation.jpg?itok=8lOboP6A
 ├───OK─── https://goo.gl/photos/JmCV6BxgXTTPDzy1A
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2015_open_house.jpg?itok=RsXoZM4Z
+├───OK─── https://goo.gl/photos/RqEu5gyjp6Zn2NMV8
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_graduation.jpg?itok=OjckfJMb
+├───OK─── https://goo.gl/photos/VMdMTfWwZdnJEj6F9
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_alumni_dinner.jpg?itok=Hdt7mUab
+├───OK─── https://goo.gl/photos/NzZWqjmGUuLitpzv9
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_chicago_trek.jpg?itok=s0HXWm5v
+├───OK─── https://goo.gl/photos/4aVaeAJA7GLbQQyX7
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_open_house.jpg?itok=9flrGVhM
 ├─BROKEN─ http://www.math.umn.edu/mcfam/events/galleries/2014/chicago-trek/ (HTTP_404)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_chicago_trek_0.jpg?itok=r4Og4jAu
 ├─BROKEN─ http://www.math.umn.edu/mcfam/events/galleries/2014/chicago-trek/ (HTTP_404)
@@ -2537,14 +2542,6 @@ Getting links from: https://math.umn.edu/gallery/photo-galleries
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_orientation.jpg?itok=nAL8P0w9
 ├───OK─── https://goo.gl/photos/VL3w9THVXpQzsPkB9
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_spring_picnic.jpg?itok=mnujXOwE
-├───OK─── https://goo.gl/photos/RqEu5gyjp6Zn2NMV8
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_graduation.jpg?itok=OjckfJMb
-├───OK─── https://goo.gl/photos/VMdMTfWwZdnJEj6F9
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_alumni_dinner.jpg?itok=Hdt7mUab
-├───OK─── https://goo.gl/photos/NzZWqjmGUuLitpzv9
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_chicago_trek.jpg?itok=s0HXWm5v
-├───OK─── https://goo.gl/photos/4aVaeAJA7GLbQQyX7
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2014_open_house.jpg?itok=9flrGVhM
 ├───OK─── https://get.google.com/u/0/albumarchive/116189434051897940043/album/AF1QipM-mh5ygYoeWgiJkTxp721w2MK0SBpCaUUzXQl5
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/2013_mcfam_orientation_cruise.jpg?itok=O3vmlLb2
 ├───OK─── https://get.google.com/u/0/albumarchive/116189434051897940043/album/AF1QipMJZ0vm0SiJZ956FXOahSH-vgBhR-7W4eH0o4Xb
@@ -2585,10 +2582,13 @@ Getting links from: https://math.umn.edu/news-events/seminars
 ├───OK─── https://math.umn.edu/news-events/current-series/IMA-Data-Science-Lab-Seminar
 ├───OK─── https://math.umn.edu/seminar/lecture-64
 ├───OK─── http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2F69qsckgn1i7oudmdod0lki172o@group.calendar.google.com%2Fpublic%2Fbasic
+├───OK─── https://math.umn.edu/news-events/current-series/Automorphic-Forms-and-Number-Theory
+├───OK─── https://math.umn.edu/seminar/automorphic-forms-and-number-theory-102
+├───OK─── http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fumn.edu_qgs1gkc92uoakj4re4hve226rc@group.calendar.google.com%2Fpublic%2Fbasic
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/resize/remote/dc085d46f77b1f85b91c2c7efacb35a3-114x36.gif
 ├───OK─── https://math.umn.edu/news-events/current-series/Math-Physics-Seminar
 ├───OK─── https://math.umn.edu/seminar/superintegrability-theory
 ├───OK─── http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fumn.edu_5bj26gvlcbr957nrekrh2p7nkc@group.calendar.google.com%2Fpublic%2Fbasic
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/resize/remote/dc085d46f77b1f85b91c2c7efacb35a3-114x36.gif
 ├───OK─── https://math.umn.edu/seminar/computational-issues-making-math-models-operational-insurance
 ├───OK─── https://math.umn.edu/seminar/lecture-75
 ├───OK─── https://math.umn.edu/seminar/lecture-65
@@ -2615,7 +2615,7 @@ Getting links from: https://math.umn.edu/news-events/seminars
 ├───OK─── https://math.umn.edu/seminar/colloquium-146
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news-events/seminars
-Finished! 200 links found. 156 excluded. 2 broken.
+Finished! 204 links found. 157 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/upcoming-events
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -2830,7 +2830,7 @@ Getting links from: https://math.umn.edu/directory/sergey-bobkov
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/sergey-bobkov
-Finished! 113 links found. 110 excluded. 2 broken.
+Finished! 112 links found. 109 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/maury-bramson
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -2860,7 +2860,7 @@ Getting links from: https://math.umn.edu/directory/wei-kuo-chen
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/wei-kuo-chen
-Finished! 112 links found. 109 excluded. 2 broken.
+Finished! 113 links found. 110 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/ionut-ciocan-fontanine
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -2908,7 +2908,7 @@ Getting links from: https://math.umn.edu/directory/hao-jia-0
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hao-jia-0
-Finished! 112 links found. 109 excluded. 2 broken.
+Finished! 113 links found. 110 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/dihua-jiang
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -3217,12 +3217,6 @@ Getting links from: https://math.umn.edu/directory/scott-gilbert
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/scott-gilbert
 Finished! 111 links found. 108 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/ted-huseby
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/ted-huseby
-Finished! 111 links found. 108 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/stephanie-lawson
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -3258,12 +3252,6 @@ Getting links from: https://math.umn.edu/directory/harry-singh
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/harry-singh
 Finished! 112 links found. 109 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/dana-sorenson
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/dana-sorenson
-Finished! 111 links found. 108 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/jenida-sukharan
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -4362,9 +4350,10 @@ Finished! 112 links found. 109 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/eric-stucky
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ http://www.math.umn.edu/~stuck127/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/eric-stucky
-Finished! 112 links found. 109 excluded. 2 broken.
+Finished! 112 links found. 108 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/tianyu-tao
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -4495,11 +4484,9 @@ Finished! 137 links found. 127 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/mcfam/financial-mathematics/curriculum
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/shanshan_wu-testimonial.jpg?itok=2uMz1xwm
-├───OK─── https://math.umn.edu/about/testimonials/shanshan-wu-0
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/mcfam/financial-mathematics/curriculum
-Finished! 135 links found. 130 excluded. 2 broken.
+Finished! 135 links found. 132 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/master-financial-mathematics/additional-coursework-and-minors
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -4705,23 +4692,26 @@ Getting links from: https://math.umn.edu/directory/xiaowen-he
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/xiaowen-he
 Finished! 111 links found. 108 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/weiliang-huang
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/weiliang-huang
-Finished! 111 links found. 108 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/liwei-huang
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1842_0.jpg?itok=tUonfg8g (HTTP_404)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/liwei-huang
-Finished! 111 links found. 108 excluded. 2 broken.
+Finished! 111 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/weiliang-huang
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan1838_0.jpg?itok=32wz2b6F (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/weiliang-huang
+Finished! 111 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/yaoxin-ji
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/ji00052_0.jpg?itok=MyUp7K0P (HTTP_404)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yaoxin-ji
-Finished! 111 links found. 108 excluded. 2 broken.
+Finished! 111 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/michele-knudsen
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -4891,6 +4881,12 @@ Getting links from: https://math.umn.edu/directory/changlin-xie
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/changlin-xie
 Finished! 111 links found. 108 excluded. 2 broken.
 
+Getting links from: https://math.umn.edu/directory/qinzheng-xu
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/qinzheng-xu
+Finished! 111 links found. 108 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/directory/yifan-xu
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -4907,12 +4903,6 @@ Getting links from: https://math.umn.edu/directory/heng-xu
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/heng-xu
-Finished! 111 links found. 108 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/qinzheng-xu
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/qinzheng-xu
 Finished! 111 links found. 108 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/dian-yu
@@ -5440,9 +5430,9 @@ Finished! 117 links found. 114 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/mcfam/actuarial-mathematics/mentoring
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/partnershipagreement.pdf
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/discussionplan.pdf
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/discussiontopics.doc
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/partnershipagreement.pdf
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/discussionplan.pdf
+├───OK─── http://math.umn.edu/sites/math.umn.edu/files/discussiontopics.doc
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/mcfam/actuarial-mathematics/mentoring
 Finished! 122 links found. 116 excluded. 2 broken.
@@ -5514,6 +5504,8 @@ Getting links from: https://math.umn.edu/about/testimonials/elaine-zhao
 ├───OK─── https://math.umn.edu/about/testimonials/kimberly-pan
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/sydney_seydel-testimonial.jpg?itok=PC9lxJgj
 ├───OK─── https://math.umn.edu/about/testimonials/sydney-seydel
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/dichen_li-testimonial.png?itok=zZwHVQBd
+├───OK─── https://math.umn.edu/about/testimonials/dichen-li
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/kyle_ordhal-testimonial.jpg?itok=BxTCe8MN
 ├───OK─── https://math.umn.edu/about/testimonials/kyle-ordhal
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/tony_pham_photo.jpg?itok=u58m0awS
@@ -5530,7 +5522,7 @@ Getting links from: https://math.umn.edu/about/testimonials/elaine-zhao
 ├───OK─── https://math.umn.edu/about/testimonials/zhiyuan-victor-zhou
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/elaine-zhao
-Finished! 181 links found. 124 excluded. 2 broken.
+Finished! 181 links found. 122 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/about/testimonials
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -5604,6 +5596,12 @@ Getting links from: https://math.umn.edu/graduate/how-apply
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/graduate-studies/how-apply
 Finished! 118 links found. 115 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/content/graduate-program-open-house
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/content/graduate-program-open-house
+Finished! 101 links found. 98 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/admission-requirements/meet-representative
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -5999,6 +5997,13 @@ Getting links from: https://math.umn.edu/directory/russell-brown#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/russell-brown
 Finished! 111 links found. 107 excluded. 2 broken.
 
+Getting links from: https://math.umn.edu/directory/fanbin-bu-0#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/buxxx001_2.jpg?itok=UwZGHp19
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fanbin-bu-0
+Finished! 110 links found. 106 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/directory/fanbin-bu#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/buxxx001_0.jpg?itok=saO1X-QG
@@ -6006,13 +6011,6 @@ Getting links from: https://math.umn.edu/directory/fanbin-bu#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fanbin-bu
 Finished! 112 links found. 107 excluded. 3 broken.
-
-Getting links from: https://math.umn.edu/directory/fanbin-bu-0#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/buxxx001_2.jpg?itok=UwZGHp19
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fanbin-bu-0
-Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/patrick-byrnes#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -6099,18 +6097,18 @@ Getting links from: https://math.umn.edu/directory/ching-hao-chang#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/ching-hao-chang
 Finished! 110 links found. 106 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/won-jae-chang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chan0384_0.jpg?itok=clO_EPgA
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/won-jae-chang
-Finished! 110 links found. 106 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/peter-chang#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_132.png?itok=quQgQpMN
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/peter-chang
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/won-jae-chang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chan0384_0.jpg?itok=clO_EPgA
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/won-jae-chang
 Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/yi-ju-chao#alumni
@@ -6132,41 +6130,6 @@ Getting links from: https://math.umn.edu/directory/jeongoo-cheh#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/cheh0004_1.jpg?itok=sBNWhDOu
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jeongoo-cheh
-Finished! 110 links found. 106 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/bin-chen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_96.png?itok=hWh_lu9m
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/bin-chen
-Finished! 110 links found. 106 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/guangliang-chen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen0796_1.jpg?itok=uxZMxcpi
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/guangliang-chen
-Finished! 110 links found. 106 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/haojie-chen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen1512-rd_0.jpg?itok=-WnSU8s0
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/haojie-chen
-Finished! 110 links found. 106 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/haoran-chen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen1268-rd_0.jpg?itok=d1e8t9oL
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/haoran-chen
-Finished! 110 links found. 106 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/hwa-nien-chen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_3.png?itok=cXTZfVNr
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hwa-nien-chen
 Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/kuo-chang-chen#alumni
@@ -6202,6 +6165,41 @@ Getting links from: https://math.umn.edu/directory/yanlai-chen#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen0731_1.jpg?itok=QPNAHN4Q
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yanlai-chen
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/bin-chen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_96.png?itok=hWh_lu9m
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/bin-chen
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/guangliang-chen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen0796_1.jpg?itok=uxZMxcpi
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/guangliang-chen
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/haojie-chen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen1512-rd_0.jpg?itok=-WnSU8s0
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/haojie-chen
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/haoran-chen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/chen1268-rd_0.jpg?itok=d1e8t9oL
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/haoran-chen
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/hwa-nien-chen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_3.png?itok=cXTZfVNr
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hwa-nien-chen
 Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/lu-cheng#alumni
@@ -6590,18 +6588,18 @@ Getting links from: https://math.umn.edu/directory/susanna-fishel#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/susanna-fishel
 Finished! 110 links found. 106 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/juraj-foldes#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/fold0018_1.jpg?itok=zTqiAcYN
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/juraj-foldes
-Finished! 110 links found. 106 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/robert-foldes#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/fold0023_0.jpg?itok=O4Hu9E6J
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/robert-foldes
+Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/juraj-foldes#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/fold0018_1.jpg?itok=zTqiAcYN
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/juraj-foldes
 Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/irene-fonseca#alumni
@@ -6779,13 +6777,6 @@ Getting links from: https://math.umn.edu/directory/emily-gunawan#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/emily-gunawan
 Finished! 112 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/jong-shenq-guo#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_227.png?itok=DKs5W1of
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jong-shenq-guo
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/xiaoqin-guo#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/guoxx097-rd_1.jpg?itok=OoWRMJaZ
@@ -6799,6 +6790,13 @@ Getting links from: https://math.umn.edu/directory/yung-jen-guo#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_13.png?itok=bNa5VBvu
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yung-jen-guo
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/jong-shenq-guo#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_227.png?itok=DKs5W1of
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jong-shenq-guo
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/aaron-hagen#alumni
@@ -6989,13 +6987,6 @@ Getting links from: https://math.umn.edu/directory/jifeng-hu#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jifeng-hu
 Finished! 112 links found. 107 excluded. 3 broken.
 
-Getting links from: https://math.umn.edu/directory/chaocheng-huang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_180.png?itok=YeJTTaI7
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chaocheng-huang
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/hsin-yuan-huang#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/huan0368_0.jpg?itok=gyk4AQoz
@@ -7011,6 +7002,13 @@ Getting links from: https://math.umn.edu/directory/jia-huang#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jia-huang
 Finished! 112 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/chaocheng-huang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_180.png?itok=YeJTTaI7
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chaocheng-huang
+Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/jennie-hulse#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -7076,13 +7074,6 @@ Getting links from: https://math.umn.edu/directory/ning-jia#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/ning-jia
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/russell-johnson#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_0.png?itok=D9c8j-67
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/russell-johnson
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/gene-johnson#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_175.png?itok=jvXiepA_
@@ -7102,6 +7093,13 @@ Getting links from: https://math.umn.edu/directory/steven-johnson#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_194.png?itok=dzxcgmj6
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/steven-johnson
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/russell-johnson#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_0.png?itok=D9c8j-67
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/russell-johnson
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/michael-jolly#alumni
@@ -7139,18 +7137,18 @@ Getting links from: https://math.umn.edu/directory/upali-karunathilake#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/upali-karunathilake
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/joseph-kenney-0#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/kenn0296_2.jpg?itok=zTFbJiM3
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/joseph-kenney-0
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/joseph-kenney#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/kenn0296_1.jpg?itok=cyjPpUff
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/joseph-kenney
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/joseph-kenney-0#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/kenn0296_2.jpg?itok=zTFbJiM3
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/joseph-kenney-0
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/varunyu-khamviwath#alumni
@@ -7166,6 +7164,13 @@ Getting links from: https://math.umn.edu/directory/kendra-killpatrick#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_15.png?itok=wwibSGUx
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/kendra-killpatrick
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/dae-san-kim#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_220.png?itok=PX4CPECW
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/dae-san-kim
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/christopher-kim#alumni
@@ -7232,13 +7237,6 @@ Getting links from: https://math.umn.edu/directory/sangwook-kim#alumni
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/kimx0771_1.jpg?itok=PMbvc8TF
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/sangwook-kim
-Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/dae-san-kim#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_220.png?itok=PX4CPECW
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/dae-san-kim
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/seick-kim#alumni
@@ -7400,6 +7398,20 @@ Getting links from: https://math.umn.edu/directory/bernard-le-stum#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/bernard-le-stum
 Finished! 111 links found. 107 excluded. 2 broken.
 
+Getting links from: https://math.umn.edu/directory/chang-hyeong-lee#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/leex1265_0.jpg?itok=Ic0WRzla
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chang-hyeong-lee
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/chengwei-gary-lee#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_167.png?itok=xWQfKmO2
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chengwei-gary-lee
+Finished! 111 links found. 107 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/directory/jae-hyouk-lee#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/leex0946_1.jpg?itok=9Mylrrah
@@ -7429,20 +7441,6 @@ Getting links from: https://math.umn.edu/directory/namyong-lee#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/namyong-lee
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/chang-hyeong-lee#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/leex1265_0.jpg?itok=Ic0WRzla
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chang-hyeong-lee
-Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/chengwei-gary-lee#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_167.png?itok=xWQfKmO2
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chengwei-gary-lee
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/giovanni-leoni#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_204.png?itok=Vo70DOvY
@@ -7463,35 +7461,6 @@ Getting links from: https://math.umn.edu/directory/anton-leykin#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/anton-leykin
 Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/bo-li#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_178.png?itok=vpl_GI2O
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/bo-li
-Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/changchun-li#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_192.png?itok=jlj-rfho
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/changchun-li
-Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/fang-li#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_166.png?itok=BkPPYJbh
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fang-li
-Finished! 111 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/hui-li#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/lixxx609-rd_1.jpg?itok=1syDFSaB
-├─BROKEN─ http://math.umn.edu/~lixxx609/ (HTTP_404)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hui-li
-Finished! 112 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/liping-li#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -7546,6 +7515,35 @@ Getting links from: https://math.umn.edu/directory/lizao-larry-li#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/lizao-larry-li
 Finished! 110 links found. 106 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/bo-li#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_178.png?itok=vpl_GI2O
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/bo-li
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/changchun-li#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_192.png?itok=jlj-rfho
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/changchun-li
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/fang-li#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/no-photo_10_166.png?itok=BkPPYJbh
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fang-li
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/hui-li#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/lixxx609-rd_1.jpg?itok=1syDFSaB
+├─BROKEN─ http://math.umn.edu/~lixxx609/ (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hui-li
+Finished! 112 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/julia-liakhova#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -7603,14 +7601,6 @@ Getting links from: https://math.umn.edu/directory/liiperng-liou#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/liiperng-liou
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/gang-liu#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/liuxx895_1.jpg?itok=YN-Fk_zw
-├─BROKEN─ http://math.umn.edu/~liuxx895/ (HTTP_403)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/gang-liu
-Finished! 112 links found. 107 excluded. 3 broken.
-
 Getting links from: https://math.umn.edu/directory/baiying-liu#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/liuxx969_0.jpg?itok=ASHSb6aQ
@@ -7654,6 +7644,14 @@ Getting links from: https://math.umn.edu/directory/yong-liu#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yong-liu
 Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/gang-liu#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/liuxx895_1.jpg?itok=YN-Fk_zw
+├─BROKEN─ http://math.umn.edu/~liuxx895/ (HTTP_403)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/gang-liu
+Finished! 112 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/hector-lomeli-ortega#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -7937,18 +7935,18 @@ Getting links from: https://math.umn.edu/directory/xiaolan-nie#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/xiaolan-nie
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/michelle-nielsen#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/niel0198_2.jpg?itok=VbH7JpaH
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/michelle-nielsen
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/michelle-nielsen-0#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/niel0198_3.jpg?itok=Y07Y9vNy
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/michelle-nielsen-0
+Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/michelle-nielsen#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/niel0198_2.jpg?itok=VbH7JpaH
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/michelle-nielsen
 Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/chia-hsing-nien#alumni
@@ -8067,19 +8065,19 @@ Getting links from: https://math.umn.edu/directory/tsorng-whay-pan#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/tsorng-whay-pan
 Finished! 110 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/jun-yong-june-park#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/junepark_1.jpg?itok=yhUHdTE_
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jun-yong-june-park
-Finished! 110 links found. 106 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/jinhae-park#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/park0630.jpg?itok=qwczEIfQ
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jinhae-park
 Finished! 111 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/jun-yong-june-park#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/junepark_1.jpg?itok=yhUHdTE_
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jun-yong-june-park
+Finished! 110 links found. 106 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/felino-pascual#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -8771,20 +8769,20 @@ Getting links from: https://math.umn.edu/directory/catalin-turc#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/catalin-turc
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/vasfiye-hande-tuzel#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/meti0001_1.jpg?itok=XTOktJsh
-├─BROKEN─ http://math.umn.edu/~metin/Welcome.html (HTTP_404)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/vasfiye-hande-tuzel
-Finished! 112 links found. 107 excluded. 3 broken.
-
 Getting links from: https://math.umn.edu/directory/vasfiye-hande-tuzel-0#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/meti0001_2.jpg?itok=3LQQt103
 ├─BROKEN─ http://math.umn.edu/~metin/Welcome.html (HTTP_404)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/vasfiye-hande-tuzel-0
+Finished! 112 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/vasfiye-hande-tuzel#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/meti0001_1.jpg?itok=XTOktJsh
+├─BROKEN─ http://math.umn.edu/~metin/Welcome.html (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/vasfiye-hande-tuzel
 Finished! 112 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/wilfredo-urbina#alumni
@@ -8861,6 +8859,21 @@ Getting links from: https://math.umn.edu/directory/chen-wan#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/chen-wan
 Finished! 112 links found. 107 excluded. 3 broken.
 
+Getting links from: https://math.umn.edu/directory/yi-wang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wangx857_0.jpg?itok=tNIgI7DZ
+├─BROKEN─ http://math.umn.edu/~wangx857/ (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yi-wang
+Finished! 112 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/yang-wang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wangx188_0.jpg?itok=-Y2YG6pR
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yang-wang
+Finished! 111 links found. 107 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/directory/haiying-wang#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wang0656_0.jpg?itok=YiAlFqrJ
@@ -8903,21 +8916,6 @@ Getting links from: https://math.umn.edu/directory/xuefeng-wang#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/xuefeng-wang
 Finished! 110 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/yi-wang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wangx857_0.jpg?itok=tNIgI7DZ
-├─BROKEN─ http://math.umn.edu/~wangx857/ (HTTP_404)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yi-wang
-Finished! 112 links found. 107 excluded. 3 broken.
-
-Getting links from: https://math.umn.edu/directory/yang-wang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wangx188_0.jpg?itok=-Y2YG6pR
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/yang-wang
-Finished! 111 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/suk-wee#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -9006,20 +9004,20 @@ Getting links from: https://math.umn.edu/directory/nathan-wodarz#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/nathan-wodarz
 Finished! 111 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/weiwei-wu#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wuxxx347-rd_1.jpg?itok=Q-VbYfSA
-├─BROKEN─ http://math.umn.edu/~wuxxx347/ (HTTP_404)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/weiwei-wu
-Finished! 112 links found. 107 excluded. 3 broken.
-
 Getting links from: https://math.umn.edu/directory/qiliang-wu#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wuxxx410-rd_0.jpg?itok=BDHCONqL
 ├─BROKEN─ http://math.umn.edu/~wuxxx410/ (HTTP_404)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/qiliang-wu
+Finished! 112 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/weiwei-wu#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/wuxxx347-rd_1.jpg?itok=Q-VbYfSA
+├─BROKEN─ http://math.umn.edu/~wuxxx347/ (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/weiwei-wu
 Finished! 112 links found. 107 excluded. 3 broken.
 
 Getting links from: https://math.umn.edu/directory/fei-xu#alumni
@@ -9132,19 +9130,6 @@ Getting links from: https://math.umn.edu/directory/aleksandar-zatezalo#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/aleksandar-zatezalo
 Finished! 110 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/hang-zhang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hang-zhang
-Finished! 110 links found. 107 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/directory/jian-zhang#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhan0173.jpg?itok=uKP0F-Ol
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jian-zhang
-Finished! 111 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/jianhua-zhang#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -9205,6 +9190,19 @@ Getting links from: https://math.umn.edu/directory/teng-zhang#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/teng-zhang
 Finished! 112 links found. 107 excluded. 3 broken.
 
+Getting links from: https://math.umn.edu/directory/hang-zhang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/hang-zhang
+Finished! 110 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/jian-zhang#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhan0173.jpg?itok=uKP0F-Ol
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jian-zhang
+Finished! 111 links found. 107 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/directory/liqiong-zhao#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhaox105_1.jpg?itok=IqDD3eA0
@@ -9227,14 +9225,6 @@ Getting links from: https://math.umn.edu/directory/stephen-zheng#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/stephen-zheng
 Finished! 110 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/wei-zhou#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhoux123_1.jpg?itok=5qJEwOG5
-├─BROKEN─ http://math.umn.edu/~zhoux123/ (HTTP_404)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/wei-zhou
-Finished! 112 links found. 107 excluded. 3 broken.
-
 Getting links from: https://math.umn.edu/directory/fanhuan-zhou-0#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhoux086_0.jpg?itok=ci85IItz
@@ -9242,12 +9232,6 @@ Getting links from: https://math.umn.edu/directory/fanhuan-zhou-0#alumni
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/fanhuan-zhou-0
 Finished! 112 links found. 107 excluded. 3 broken.
-
-Getting links from: https://math.umn.edu/directory/xiaoming-zhou#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/xiaoming-zhou
-Finished! 110 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/fanhuan-zhou#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -9261,6 +9245,20 @@ Getting links from: https://math.umn.edu/directory/qing-zhou#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/qing-zhou
+Finished! 110 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/wei-zhou#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/zhoux123_1.jpg?itok=5qJEwOG5
+├─BROKEN─ http://math.umn.edu/~zhoux123/ (HTTP_404)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/wei-zhou
+Finished! 112 links found. 107 excluded. 3 broken.
+
+Getting links from: https://math.umn.edu/directory/xiaoming-zhou#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/xiaoming-zhou
 Finished! 110 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/xiaodong-zhu#alumni
@@ -9290,16 +9288,16 @@ Getting links from: https://math.umn.edu/directory/heng-zou#alumni
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/heng-zou
 Finished! 110 links found. 107 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/directory/jose-zuniga#alumni
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jose-zuniga
-Finished! 110 links found. 107 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/directory/jose-zuniga-0#alumni
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jose-zuniga-0
+Finished! 110 links found. 107 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/directory/jose-zuniga#alumni
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/directory/jose-zuniga
 Finished! 110 links found. 107 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/directory/victor-zurkowski#alumni
@@ -10402,10 +10400,10 @@ Getting links from: https://math.umn.edu/mcfam-home/contact
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/mcfam-home/contact
 Finished! 123 links found. 119 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/about/testimonials/dichen-li
+Getting links from: https://math.umn.edu/about/testimonials/shanshan-wu-0
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/dichen-li
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/shanshan-wu-0
 Finished! 181 links found. 178 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/mcim/center-information
@@ -10864,17 +10862,17 @@ Finished! 226 links found. 189 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/content/2011-2012-news
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/news/ima-minnesota-state-fair
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/ima_mn_state_fair_2011-2.jpg?itok=P6CoHiLE
 ├───OK─── https://math.umn.edu/news/miller-and-post-awarded-best-paper
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/willard_miller.jpg?itok=LLuOp_IQ
+├───OK─── https://math.umn.edu/news/ima-minnesota-state-fair
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/ima_mn_state_fair_2011-2.jpg?itok=P6CoHiLE
 ├───OK─── https://math.umn.edu/news/siam-annual-meeting-and-minisymposium
 ├───OK─── https://math.umn.edu/news/graduate-students-awarded-nsf
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/goes.jpg?itok=nwIHzcSa
-├───OK─── https://math.umn.edu/news/remmen-awarded-hertz-fellowship
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/remmen.jpg?itok=PMvtOfnH
 ├───OK─── https://math.umn.edu/news/odlyzko-becomes-fellow-iacr
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/odlyzko_0.jpg?itok=ntVLRAfg
+├───OK─── https://math.umn.edu/news/remmen-awarded-hertz-fellowship
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/remmen.jpg?itok=PMvtOfnH
 ├───OK─── https://math.umn.edu/news/akhmedov-awarded-sloan-research-fellowship
 ├───OK─── https://math.umn.edu/news/irene-fonseca-be-siam-president
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/styles/panopoly_image_square/public/fonseca.jpg?itok=WZ9K4gzo
@@ -10990,18 +10988,18 @@ Getting links from: https://math.umn.edu/content/2008-2009-news
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/content/2008-2009-news
 Finished! 148 links found. 132 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/chen_nsf_career_grant-thumb.jpg
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
-Finished! 100 links found. 96 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/news/congratulations-newly-promoted-faculty-1
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/2018-promotions-thumb.png
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/congratulations-newly-promoted-faculty-1
+Finished! 100 links found. 96 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/chen_nsf_career_grant-thumb.jpg
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/assistant-professor-wei-kuo-chen-awarded-nsf-career-grant
 Finished! 100 links found. 96 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news/umn-mathcep-wins-2018-award-exemplary-program
@@ -11461,7 +11459,7 @@ Getting links from: https://math.umn.edu/seminars/current-series
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminars/current-series
-Finished! 119 links found. 116 excluded. 2 broken.
+Finished! 120 links found. 117 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminars/past-seminars
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11472,11 +11470,11 @@ Getting links from: https://math.umn.edu/seminars/past-seminars
 ├───OK─── https://math.umn.edu/past-seminars/past-seminars-2012-2013
 ├───OK─── https://arxiv.org/abs/1808.09540
 ├───OK─── http://www-users.math.umn.edu/~hopki319/seminar_fall18.html#20180921
-├─BROKEN─ https://www.linkedin.com/in/jwangatvtal/ (ERRNO_ECONNRESET)
+├─BROKEN─ https://www.linkedin.com/in/jwangatvtal/ (HTTP_999)
 ├───OK─── http://www.fox.temple.edu/mcm_people/thorsten-moenig/
 ├─BROKEN─ https://www.linkedin.com/in/dongchen-li-8801b13b/ (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/chris-bemis-3596936/ (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/roman-borisov-00972345/ (HTTP_999)
+├─BROKEN─ https://www.linkedin.com/in/chris-bemis-3596936/ (ERRNO_ECONNRESET)
+├─BROKEN─ https://www.linkedin.com/in/roman-borisov-00972345/ (ERRNO_ECONNRESET)
 ├───OK─── https://goo.gl/x9wztd
 ├───OK─── https://www.math.fsu.edu/People/faculty.php?id=1472
 ├───OK─── https://math.umn.edu/mcfam/financial-mathematics/career-fair
@@ -11528,7 +11526,7 @@ Getting links from: https://math.umn.edu/news-events/current-series/IMA-MCIM-Ind
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.dev.umn.edu/sites/math.umn.edu/themes/umn_math/logo.png
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 99 excluded. 2 broken.
+Finished! 103 links found. 100 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/lecture-74
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11538,9 +11536,8 @@ Finished! 98 links found. 95 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/MCFAM-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/news-events/current-series/IMA/MCIM-Industrial-Problems-Seminar
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 99 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/model-selection-lowhigh-dimensional-regression-variable-selection
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11554,10 +11551,21 @@ Getting links from: https://math.umn.edu/seminar/lecture-64
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminar/lecture-64
 Finished! 98 links found. 95 excluded. 2 broken.
 
+Getting links from: https://math.umn.edu/news-events/current-series/Automorphic-Forms-and-Number-Theory
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+Finished! 103 links found. 101 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/seminar/automorphic-forms-and-number-theory-102
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminar/automorphic-forms-and-number-theory-102
+Finished! 98 links found. 95 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/news-events/current-series/Math-Physics-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/superintegrability-theory
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11598,7 +11606,7 @@ Finished! 98 links found. 95 excluded. 2 broken.
 Getting links from: https://math.umn.edu/news-events/current-series/Lie-Theory-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/lie-theory-seminar-101
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11615,7 +11623,7 @@ Finished! 98 links found. 95 excluded. 2 broken.
 Getting links from: https://math.umn.edu/news-events/current-series/Colloquium
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/colloquium-147
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -11638,7 +11646,7 @@ Finished! 98 links found. 95 excluded. 2 broken.
 Getting links from: https://math.umn.edu/news-events/current-series/Special-Events-and-Seminars
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminar/special-algebraic-geometry-seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -12141,12 +12149,6 @@ Getting links from: https://math.umn.edu/about/testimonials/pa-nguyen
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/pa-nguyen
 Finished! 181 links found. 178 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/about/testimonials/shanshan-wu-0
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/shanshan-wu-0
-Finished! 181 links found. 178 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/about/testimonials/justine-yue
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -12285,15 +12287,6 @@ Finished! 164 links found. 162 excluded. 2 broken.
 Getting links from: https://math.umn.edu/sites/math.umn.edu/files/actuarial_program_planning_guide_-_2018_transition.pdf
 Error: Expected type "text/html" but got "application/pdf"
 
-Getting links from: https://math.umn.edu/sites/math.umn.edu/files/partnershipagreement.pdf
-Error: Expected type "text/html" but got "application/pdf"
-
-Getting links from: https://math.umn.edu/sites/math.umn.edu/files/discussionplan.pdf
-Error: Expected type "text/html" but got "application/pdf"
-
-Getting links from: https://math.umn.edu/sites/math.umn.edu/files/discussiontopics.doc
-Error: Expected type "text/html" but got "application/msword"
-
 Getting links from: https://math.umn.edu/files/actuairalgiftsitejpg
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
@@ -12420,6 +12413,12 @@ Getting links from: https://math.umn.edu/about/testimonials/sydney-seydel
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/sydney-seydel
 Finished! 226 links found. 222 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/about/testimonials/dichen-li
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/about/testimonials/dichen-li
+Finished! 181 links found. 178 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/about/testimonials/kyle-ordhal
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -12743,7 +12742,7 @@ Getting links from: https://math.umn.edu/requirements/schedule
 ├───OK─── https://math.umn.edu/preliminary-written-exam/previous-written-exams
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/requirements/schedule
-Finished! 125 links found. 121 excluded. 2 broken.
+Finished! 124 links found. 120 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/content/written-exam-syllabus-and-recommended-courses
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -13812,6 +13811,13 @@ Getting links from: https://math.umn.edu/news/congratulations-new-associate-prof
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/congratulations-new-associate-professor
 Finished! 98 links found. 95 excluded. 2 broken.
 
+Getting links from: https://math.umn.edu/news/miller-and-post-awarded-best-paper
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/willard_miller.jpg
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/miller-and-post-awarded-best-paper
+Finished! 99 links found. 95 excluded. 2 broken.
+
 Getting links from: https://math.umn.edu/news/ima-minnesota-state-fair
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/ima_mn_state_fair_2011-2.jpg
@@ -13819,13 +13825,6 @@ Getting links from: https://math.umn.edu/news/ima-minnesota-state-fair
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/ima-minnesota-state-fair
 Finished! 102 links found. 97 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/news/miller-and-post-awarded-best-paper
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/willard_miller.jpg
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/miller-and-post-awarded-best-paper
-Finished! 99 links found. 95 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news/siam-annual-meeting-and-minisymposium
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -13841,19 +13840,19 @@ Getting links from: https://math.umn.edu/news/graduate-students-awarded-nsf
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/graduate-students-awarded-nsf
 Finished! 101 links found. 96 excluded. 2 broken.
 
-Getting links from: https://math.umn.edu/news/remmen-awarded-hertz-fellowship
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/sites/math.umn.edu/files/remmen.jpg
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/remmen-awarded-hertz-fellowship
-Finished! 101 links found. 97 excluded. 2 broken.
-
 Getting links from: https://math.umn.edu/news/odlyzko-becomes-fellow-iacr
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://math.umn.edu/sites/math.umn.edu/files/odlyzko_0.jpg
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/odlyzko-becomes-fellow-iacr
 Finished! 100 links found. 96 excluded. 2 broken.
+
+Getting links from: https://math.umn.edu/news/remmen-awarded-hertz-fellowship
+├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
+├───OK─── https://math.umn.edu/sites/math.umn.edu/files/remmen.jpg
+├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
+└───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/news/remmen-awarded-hertz-fellowship
+Finished! 101 links found. 97 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news/akhmedov-awarded-sloan-research-fellowship
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -14249,8 +14248,8 @@ Getting links from: https://math.umn.edu/past-seminars/past-seminars-2015-2016-0
 ├───OK─── https://arxiv.org/abs/1702.07959
 ├───OK─── https://carlsonschool.umn.edu/faculty/stephen-parente
 ├─BROKEN─ https://www.linkedin.com/in/james-west-bb027474 (ERRNO_ECONNRESET)
-├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_999)
+├─BROKEN─ https://www.linkedin.com/in/keenangao (ERRNO_ECONNRESET)
+├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_undefined)
 ├───OK─── https://arxiv.org/abs/1701.01989
 ├─BROKEN─ http://math.umn.edu/~yangx953/ (HTTP_404)
 ├───OK─── http://www.healthdata.gov/
@@ -14272,10 +14271,10 @@ Getting links from: https://math.umn.edu/past-seminars/past-seminars-2015-2016
 ├───OK─── http://arxiv.org/abs/1402.0462
 ├───OK─── https://www.wpi.edu/academics/facultydir/ss7.html
 ├─BROKEN─ http://www.pstat.ucsb.edu/faculty%20pages/Duncan.html (HTTP_404)
-├───OK─── https://www.linkedin.com/profile/view?id=ACgAAAAz9EsBJlDiSPd26EXTC1s36Wf3LewCGls&authType=name&authToken=YGkf
+├─BROKEN─ https://www.linkedin.com/profile/view?id=ACgAAAAz9EsBJlDiSPd26EXTC1s36Wf3LewCGls&authType=name&authToken=YGkf (ERRNO_ECONNRESET)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/past-seminars/past-seminars-2015-2016
-Finished! 136 links found. 123 excluded. 6 broken.
+Finished! 136 links found. 123 excluded. 7 broken.
 
 Getting links from: https://math.umn.edu/past-seminars/past-seminars-2014-2015
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -14379,10 +14378,9 @@ Finished! 98 links found. 94 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminars/past-seminars-series/Automorphic-Forms-and-Number-Theory
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├───OK─── https://math.umn.edu/news-events/current-series/Automorphic-Forms-and-Number-Theory
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminars/past-seminars-series/Automorphic-Forms-and-Number-Theory
-Finished! 98 links found. 94 excluded. 2 broken.
+Finished! 98 links found. 95 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminars/past-seminars-series/Climate-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -14500,13 +14498,13 @@ Finished! 98 links found. 94 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/seminars/past-seminars-series/MCFAM-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.linkedin.com/in/jwangatvtal/ (HTTP_undefined)
+├─BROKEN─ https://www.linkedin.com/in/jwangatvtal/ (HTTP_999)
 ├─BROKEN─ https://www.linkedin.com/in/dongchen-li-8801b13b/ (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/chris-bemis-3596936/ (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/roman-borisov-00972345/ (HTTP_999)
+├─BROKEN─ https://www.linkedin.com/in/chris-bemis-3596936/ (HTTP_undefined)
+├─BROKEN─ https://www.linkedin.com/in/roman-borisov-00972345/ (HTTP_undefined)
 ├─BROKEN─ https://www.linkedin.com/in/james-west-bb027474 (HTTP_undefined)
-├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_999)
-├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_999)
+├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_undefined)
+├─BROKEN─ https://www.linkedin.com/in/keenangao (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminars/past-seminars-series/MCFAM-Seminar
 Finished! 109 links found. 99 excluded. 9 broken.
@@ -14565,11 +14563,6 @@ Getting links from: https://math.umn.edu/seminars/past-seminars-series/Topology-
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
 └───OK─── http://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://math.umn.edu/seminars/past-seminars-series/Topology-Seminar
 Finished! 98 links found. 94 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/news-events/current-series/IMA/MCIM-Industrial-Problems-Seminar
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 126 links found. 124 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/multiscale-theory-and-computation/speakers
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
@@ -15911,108 +15904,103 @@ Error: Expected type "text/html" but got "image/png"
 Getting links from: https://math.umn.edu/news-events/current-series/Algebraic-Geometry
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Algebraic-Representation-Theory-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Analysis-and-PDE-Working-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Applied-and-Computational-Math-Colloquium
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
-
-Getting links from: https://math.umn.edu/news-events/current-series/Automorphic-Forms-and-Number-Theory
-├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
-├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Cockburn%27s-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├───OK─── https://lists.umn.edu/cgi-bin/wa?SUBED1=MATH-SEMINAR&A=1
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 99 excluded. 2 broken.
+Finished! 103 links found. 100 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Commutative-Algebra-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Differential-Geometry-and-Symplectic-Topology-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Dynamical-Systems
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Geometric-Analysis-Learning-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Math-Biology-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Math-Club-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/MathCEP-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/MCFAM-Distinguished-Lecture-Series
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Ordway-Lecture-Series
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/PDE-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Probability-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Student-Combinatorics-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Student-Number-Theory-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Student-Topology-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/news-events/current-series/Topology-Seminar
 ├─BROKEN─ http://www.myu.umn.edu/ (HTTP_undefined)
 ├─BROKEN─ https://www.myu.umn.edu/ (HTTP_undefined)
-Finished! 102 links found. 100 excluded. 2 broken.
+Finished! 103 links found. 101 excluded. 2 broken.
 
 Getting links from: https://math.umn.edu/sites/math.umn.edu/files/sylvia-serfaty-riviere-fabes-2017.pdf
 Error: Expected type "text/html" but got "application/pdf"
@@ -16154,5 +16142,5 @@ Error: Expected type "text/html" but got "application/vnd.ms-powerpoint"
 Getting links from: https://math.umn.edu/sites/math.umn.edu/files/bertozzi_lecture_2.pptx
 Error: Expected type "text/html" but got "application/vnd.openxmlformats-officedocument.presentationml.presentation"
 
-Finished! 209103 links found. 199085 excluded. 3793 broken.
-Elapsed time: 30 minutes, 6 seconds
+Finished! 208979 links found. 198961 excluded. 3800 broken.
+Elapsed time: 58 minutes, 4 seconds

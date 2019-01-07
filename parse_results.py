@@ -3,6 +3,8 @@
 import csv
 import pandas as pd
 
+pd.set_option('display.max_colwidth', -1)
+
 finalDict = {}
 
 with open('results.txt', 'r') as f:
@@ -33,5 +35,5 @@ df = df[df.columns.drop(list(df.filter(regex="Finished!")))]
 df.to_csv('new.csv', sep='\t', index=False)
 
 # Send the DataFrame to an html file.
-df.to_html('index.html')
+df.to_html('index.html', index=False)
 
