@@ -4,7 +4,10 @@ Getting links from: https://www.foo.com/
 ├─BROKEN─ http://www.broken.com/
 ├───OK─── http://www.set.com/
 ├───OK─── http://www.one.com/
-5 links found. 0 excluded. 1 broken.
+├─BROKEN─ http://math.umn.edu/~xuxxx225/
+├─BROKEN─ http://math.umn.edu/~yuxxx222/
+├─BROKEN─ http://math.umn.edu/~fuxxx165/
+8 links found. 0 excluded. 4 broken.
 
 Getting links from: https://www.bar.com/
 ├───OK─── http://www.this.com/
