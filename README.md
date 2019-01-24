@@ -13,3 +13,7 @@ This repository contains a bash script that runs broken-link-checker and subsequ
 ## Instructions
 
 Run the bash script and wait for it to finish. You can view the results in the csv or html file. 
+
+## Refactoring
+
+A file could be created that would contain a list of dictionaries that contain the links to filter out when parsing the results for a specific site. Then, a specific site could be called from the bash script and the parser would be able to identify which filter list to reference based on the results.
