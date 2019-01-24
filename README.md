@@ -9,6 +9,7 @@ This repository contains a bash script that runs broken-link-checker and subsequ
   <li>python2.7</li>
   <li>pandas</li>
 </ul>
-### Instructions
 
-Run the bash script and wait for it to finish. You can view the csv or html file. 
+## Instructions
+
+Run the bash script and wait for it to finish. You can view the results in the csv or html file. 
